@@ -1,4 +1,4 @@
-## Olá, meu nome Tamires Beatriz! Seja bem vindo(a) ao meu Github. ☺️
+## Olá, meu nome Tamires Lima! Seja bem vindo(a) ao meu Github. ☺️
 
 - 🔭 Atualmente desenvolvedora back-end. 
 - 🌱 Esutdando Node.js, Python e Javascript.
