@@ -1,31 +1,37 @@
-# Project Overview
+# Sobre Mim  
+Olá! Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará um resumo das minhas habilidades e estatísticas de desenvolvimento.
 
-Welcome to the Project! This repository contains code and resources related to our development efforts.
+## Idiomas  
+<div style="display: flex; justify-content: space-around;">  
+    <div>  
+        <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> JavaScript  
+        <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> Python  
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> Java  
+        <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML  
+        <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS  
+    </div>  
+</div>
 
-## Programming Language Statistics
-- **C#**: 70%
-- **JavaScript**: 30%
+## Estatísticas de Linguagens  
+<div style="display: flex;">  
+    <div style="flex: 1;">  
+        <h3>Estatísticas por Linguagem</h3>  
+        <!-- Inserir gráficos ou dados estatísticos aqui -->  
+    </div>  
+    <div style="flex: 1;">  
+        <h3>Estatísticas do GitHub</h3>  
+        <!-- Inserir estatísticas do GitHub aqui -->  
+    </div>  
+</div>
 
-## Technologies Used
-- .NET Core
-- React
-
-## Badges
-
-[![Vercel](https://img.shields.io/badge/Deploy%20to-Vercel-000000.svg)](https://vercel.com)
-[![Docker](https://img.shields.io/badge/Containers-Docker-2396ED.svg)](https://www.docker.com)
-
-## Social Media
-
-Follow us for updates!
-
-- Twitter: [@your_project_handle](https://twitter.com/your_project_handle)
-- GitHub: [YourProject](https://github.com/YourProject)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
+## Redes Sociais / Deploy  
+<div style="display: flex; flex-direction: column; align-items: center;">  
+    <div style="display: flex;">  
+        <a href="mailto:seu-email@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> Gmail</a>  
+        <a href="https://www.linkedin.com/in/seu-perfil"><img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/> LinkedIn</a>  
+    </div>  
+    <div style="display: flex;">  
+        <a href="https://vercel.com"><img src="https://img.icons8.com/offices/40/000000/vercel.svg"/> Vercel</a>  
+        <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/> Docker</a>  
+    </div>  
+</div>
