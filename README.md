@@ -1,37 +1,24 @@
-# Sobre Mim  
-Olá! Sou um desenvolvedor apaixonado por tecnologia e programação. Aqui você encontrará um resumo das minhas habilidades e estatísticas de desenvolvimento.
+# Project Title
 
-## Idiomas  
-<div style="display: flex; justify-content: space-around;">  
-    <div>  
-        <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> JavaScript  
-        <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> Python  
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> Java  
-        <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML  
-        <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS  
-    </div>  
+## Statistics
+
+### Language Percentages
+<!-- Add your language percentage bars here -->
+
+<div style="display: flex; flex-direction: column;">
+  <div style="width: 100%; background-color: lightgray;">
+    <div style="width: 70%; background-color: #4CAF50;">Python 70%</div>
+  </div>
+  <div style="width: 100%; background-color: lightgray;">
+    <div style="width: 20%; background-color: #2196F3;">JavaScript 20%</div>
+  </div>
+  <div style="width: 100%; background-color: lightgray;">
+    <div style="width: 10%; background-color: #f44336;">HTML 10%</div>
+  </div>
 </div>
 
-## Estatísticas de Linguagens  
-<div style="display: flex;">  
-    <div style="flex: 1;">  
-        <h3>Estatísticas por Linguagem</h3>  
-        <!-- Inserir gráficos ou dados estatísticos aqui -->  
-    </div>  
-    <div style="flex: 1;">  
-        <h3>Estatísticas do GitHub</h3>  
-        <!-- Inserir estatísticas do GitHub aqui -->  
-    </div>  
-</div>
+### GitHub Stats Visualization
 
-## Redes Sociais / Deploy  
-<div style="display: flex; flex-direction: column; align-items: center;">  
-    <div style="display: flex;">  
-        <a href="mailto:seu-email@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/> Gmail</a>  
-        <a href="https://www.linkedin.com/in/seu-perfil"><img src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/> LinkedIn</a>  
-    </div>  
-    <div style="display: flex;">  
-        <a href="https://vercel.com"><img src="https://img.icons8.com/offices/40/000000/vercel.svg"/> Vercel</a>  
-        <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/> Docker</a>  
-    </div>  
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=21042002&show_icons=true&theme=radical)
+
+---
